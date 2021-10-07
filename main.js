@@ -1,0 +1,1 @@
+window.binaryen = require("binaryen")
